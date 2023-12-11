@@ -20,7 +20,7 @@ Hyaena Technologies is an Open Source Technology company.
 ## Build
 
 - [Android Studio][Android] 
-- [Dart Languager][Dart]
+- [Dart Language][Dart]
 - [Flutter Framework][Flutter]
 - [IntelliJ IDEA][IDEA]
 - [JetBrains Fleet][Fleet] 
