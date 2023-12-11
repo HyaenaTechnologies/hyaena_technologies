@@ -3,6 +3,7 @@
 [Fleet]: https://jetbrains.com/fleet/
 [Flutter]: https://flutter.dev/
 [IDEA]: https://jetbrains.com/idea/
+[Pub]: https://pub.dev/
 [VSCode]: https://code.visualstudio.com/docs
 
 <a href="https://github.com/HyaenaTechnologies/hyaena_technologies">
@@ -21,6 +22,7 @@ Hyaena Technologies is an Open Source Technology company.
 
 - [Android Studio][Android] 
 - [Dart Language][Dart]
+- [Dart Package Manager][Pub]
 - [Flutter Framework][Flutter]
 - [IntelliJ IDEA][IDEA]
 - [JetBrains Fleet][Fleet] 
