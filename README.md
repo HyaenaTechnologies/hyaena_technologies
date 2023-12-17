@@ -7,9 +7,9 @@
 [VSCode]: https://code.visualstudio.com/docs
 
 <a href="https://github.com/HyaenaTechnologies/hyaena_technologies">
-  <h1 align="center">
+  <h1>
     <picture>
-      <img src="https://github.com/HyaenaTechnologies/hyaena_technologies/blob/main/lib/assets/ht_markdown.png">
+      <img src="https://github.com/HyaenaTechnologies/hyaena_technologies/blob/main/lib/assets/ht_markdown.png" alt="">
     </picture>
   </h1>
 </a>
