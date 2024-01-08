@@ -29,5 +29,7 @@ Hyaena Technologies is an Open Source Technology company.
 - [Visual Studio Code][VSCode]
 
 ```shell
+git clone
+
 flutter build
 ```
